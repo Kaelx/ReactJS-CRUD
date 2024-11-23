@@ -11,10 +11,11 @@
 
 ## Dependencies
 
-- [MySQL](https://www.mysql.com/)
-- [Express](https://expressjs.com/)
-- [Axios](https://axios-http.com/)
-- [React Router DOM](https://reactrouter.com/)
+- [MySQL]()
+- [Express]()
+- [Axios]()
+- [Cors]()
+- [React Router DOM]()
 
 ---
 
