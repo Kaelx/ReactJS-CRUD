@@ -21,7 +21,7 @@
 
 ## To run the app
 
-- Open XAMPP and let the MySQL start.
+- Open XAMPP and let the MySQL start. Import the [database](reactapp_db.sql) provided.
 - In cmd/terminal, cd the server directory then do the `npm install` to install the dependencies.
 - `npm run dev` to start the server. Do not close the cmd/terminal.
 - Open another cmd/terminal, cd the app directory then do the `npm install`.
